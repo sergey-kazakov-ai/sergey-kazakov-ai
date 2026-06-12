@@ -2,7 +2,7 @@
 
 **Solutions / AI Automation Engineer** — I build production AI agents, integrations & full-stack tools for real businesses.
 
-📍 Tel Aviv area, Israel · 📫 kazaksg@gmail.com · [Portfolio](https://sergey-kazakov-ai.github.io) · [LinkedIn](https://www.linkedin.com/in/sergey-kazakov-97962424)
+📍 Tel Aviv area, Israel · 📫 kazaksg@gmail.com · [Portfolio](https://sergey-kazakov-ai.github.io) · [LinkedIn](https://www.linkedin.com/in/sergey-kazakov-ai)
 
 ---
 
